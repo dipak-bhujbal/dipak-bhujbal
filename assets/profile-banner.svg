@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title description">
+  <title id="title">Dipak Bhujbal. Product Manager and AI Product Builder.</title>
+  <desc id="description">Warm ivory banner with a rust monogram and forest green typography. Discovery, systems, and adoption connect the work.</desc>
+  <rect width="1280" height="330" rx="12" fill="#f4f2ee"/>
+  <text x="68" y="145" font-family="Georgia, serif" font-style="italic" font-size="100" letter-spacing="-10" fill="#aa4d2c">db.</text>
+  <text x="246" y="104" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="46" letter-spacing="-1.8" fill="#19342e">Dipak Bhujbal</text>
+  <text x="246" y="151" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#365947">Product Manager &amp; AI Product Builder</text>
+  <path d="M68 206H1212" stroke="#d0d4ca"/>
+  <text x="68" y="259" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2.4" fill="#19342e">CUSTOMER DISCOVERY</text>
+  <circle cx="384" cy="252" r="4" fill="#aa4d2c"/>
+  <text x="426" y="259" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2.4" fill="#19342e">TECHNICAL DEPTH</text>
+  <circle cx="718" cy="252" r="4" fill="#aa4d2c"/>
+  <text x="760" y="259" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2.4" fill="#19342e">PRODUCTS PEOPLE USE</text>
+</svg>
